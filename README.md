@@ -1,1 +1,1 @@
-## Нужный View расположен в api/views.py
+## Нужный View расположен в utf/api/views.py
